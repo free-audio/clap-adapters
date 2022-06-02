@@ -1,7 +1,6 @@
 #pragma once
 
-#include "../clap.h"
-#include "../stream.h"
+#include <clap/clap.h>
 
 #ifdef __cplusplus
 extern "C" {
